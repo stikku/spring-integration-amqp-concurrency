@@ -1,0 +1,7 @@
+amqp:
+  hostname: localhost
+  port: 5672
+  exchange: sample
+  username: guest
+  password: guest
+

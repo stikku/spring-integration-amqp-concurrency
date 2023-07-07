@@ -1,0 +1,9 @@
+amqp:
+  hostname: localhost
+  port: 5672
+  exchange: sample
+  username: guest
+  password: guest
+
+#logging.level.org.springframework.integration: TRACE
+logging.level.org.springframework.integration.handler.support: WARN
