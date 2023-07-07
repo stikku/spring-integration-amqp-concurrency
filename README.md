@@ -1,4 +1,4 @@
-# Spring Integration AMQP Shutdown Concurrency BUG
+# Shutdown Concurrency BUG
 
 ## Repository structure
 
